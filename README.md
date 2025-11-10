@@ -1,7 +1,7 @@
 # Credit Card Fraud Detection System
 **Binary Classification with Imbalanced Data Handling**
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/iKrish/RecommenderSystem/HEAD?labpath=fraud-detection-demo-a3.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/iKrish/SupervisedLearning/HEAD?labpath=fraud-detection-demo-a3.ipynb)
 
 ---
 
@@ -44,8 +44,8 @@ This project implements a credit card fraud detection system using supervised ma
 **Installation:**
 ```bash
 # Clone the repository
-git clone https://github.com/iKrish/RecommenderSystem.git
-cd RecommenderSystem
+git clone https://github.com/iKrish/SupervisedLearning.git
+cd SupervisedLearning
 
 # Install dependencies
 pip install -r requirements.txt
