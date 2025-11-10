@@ -1,0 +1,4 @@
+#!/bin/bash
+# Download Git LFS files
+git lfs fetch --all
+git lfs pull
