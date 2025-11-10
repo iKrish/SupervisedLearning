@@ -38,9 +38,8 @@ wheels/
 .DS_Store
 Thumbs.db
 
-# Data (large files)
-*.csv
-!raw_data/.gitkeep
+# Data (large files will be tracked with Git LFS)
+# CSV files in raw_data/ will be handled by Git LFS
 
 # Models
 *.pkl
