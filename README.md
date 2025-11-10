@@ -216,19 +216,6 @@ A naive model predicting all transactions as legitimate would achieve 99.83% acc
 
 See `requirements.txt` for specific versions.
 
----
-
-## Author
-
-**Krishna** (iKrish)  
-Graduate Student - Drexel University  
-Course: Supervised Learning (Assignment A3)
-
----
-
-## License
-
-This project is for educational purposes as part of a graduate-level supervised learning course.
 
 ---
 
