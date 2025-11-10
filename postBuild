@@ -1,4 +1,5 @@
 #!/bin/bash
-# Download Git LFS files
-git lfs fetch --all
-git lfs pull
+# Initialize and download Git LFS files
+git lfs install
+git lfs fetch
+git lfs checkout
