@@ -28,12 +28,15 @@ This project implements a credit card fraud detection system using supervised ma
 
 ### Option 1: Run in Browser (One-Click)
 1. Click the **"launch binder"** badge at the top
-2. Wait for environment to build (~2-3 minutes first time)
+2. Wait for environment to build (~4 minutes first time, includes downloading 150MB dataset)
 3. Open `fraud-detection-demo-a3.ipynb`
 4. Click **"Run"** → **"Run All Cells"**
-5. Review results
+5. Wait for execution to complete (~4-5 minutes)
+6. Review results
 
 **No installation required!** Runs directly in your browser via MyBinder.
+
+**Note:** Total time for first run: ~8-9 minutes (4 min build + 4-5 min execution)
 
 ### Option 2: Run Locally
 
@@ -57,7 +60,7 @@ jupyter notebook fraud-detection-demo-a3.ipynb
 **Execute:**
 1. Open `fraud-detection-demo-a3.ipynb`
 2. Click **"Kernel"** → **"Restart & Run All"**
-3. Wait for execution (~2-3 minutes)
+3. Wait for execution to complete (~4-5 minutes)
 4. Review results
 
 ---
