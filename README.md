@@ -7,7 +7,7 @@
 
 ## Overview
 
-This project implements a credit card fraud detection system using supervised machine learning to classify transactions as fraudulent or legitimate. The system addresses the challenge of extreme class imbalance (0.172% fraud rate) using SMOTE and compares three classification algorithms to identify the best performing model.
+This  project implements a credit card fraud detection system using supervised machine learning to classify transactions as fraudulent or legitimate. The system addresses the challenge of extreme class imbalance (0.172% fraud rate) using SMOTE and compares three classification algorithms to identify the best performing model.
 
 ---
 
