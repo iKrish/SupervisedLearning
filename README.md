@@ -70,7 +70,7 @@ jupyter notebook fraud-detection-demo-a3.ipynb
 ```
 Supervised Learning/
 │
-├── fraud-detection-demo-a3.ipynb   # Main notebook (20 cells)
+├── fraud-detection-demo-a3.ipynb   # Main notebook 
 ├── README.md                        # This file
 ├── requirements.txt                 # Python dependencies
 ├── .gitignore                       # Git ignore patterns
@@ -216,19 +216,6 @@ A naive model predicting all transactions as legitimate would achieve 99.83% acc
 
 See `requirements.txt` for specific versions.
 
----
-
-## Author
-
-**Krishna** (iKrish)  
-Graduate Student - Drexel University  
-Course: Supervised Learning (Assignment A3)
-
----
-
-## License
-
-This project is for educational purposes as part of a graduate-level supervised learning course.
 
 ---
 
